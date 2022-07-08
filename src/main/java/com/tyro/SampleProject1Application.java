@@ -10,6 +10,9 @@ public class SampleProject1Application {
 		SpringApplication.run(SampleProject1Application.class, args);
 		
 		System.out.println("hello world");
+		int i=10;
+
+
 	}
 
 }
